@@ -1,0 +1,11 @@
+{
+         "files.associations": {
+                  "*.cpp": "cpp",
+                  "iostream": "cpp",
+                  "fstream": "cpp",
+                  "string": "cpp",
+                  "*.tcc": "cpp",
+                  "ostream": "cpp"
+         },
+         "editor.fontSize": 14
+}

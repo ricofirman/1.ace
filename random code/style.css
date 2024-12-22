@@ -1,0 +1,160 @@
+.tak{
+    width: 100px;
+    height: 100px;
+    background-color:hsl(271, 97%, 12%) ;
+    margin: 100px;
+
+    transition-duration: 1s;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function:cubic-bezier(1, 0, 0, 1)
+    /* sama kalau kita singkat: */
+
+}
+.tak:hover{
+    background-color: rgb(0, 110, 46);
+    width: 150px;
+    height: 150px;
+   margin-left: 120px;
+
+   transform: rotate(369deg);
+}
+p{
+    color: rgb(0, 59, 59);
+}
+.no1{
+    color: blue;
+}
+#no1{
+    color: chocolate;
+}
+#teks_1,.teks_2{
+    color: #15684c;
+}
+
+blockquote p{
+    color: crimson;
+}
+.link1:link{    
+    color: rgb(0, 203, 210);
+}
+.link1:visited{
+    color: rgb(15, 52, 215);
+}
+.link1:hover{
+    background-color: rgb(4, 52, 52);
+    color: aqua;
+}
+.link1:active{
+    color: cornflowerblue;
+}
+.font{
+    font-style: italic;
+}
+.property {
+    text-decoration:underline
+}
+
+.ke8 {
+    color: #02ed9f;
+}
+.capital {
+    text-transform: capitalize;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.lowercase {
+    text-transform: lowercase;
+}
+.ke9 {
+    color: #02ed9f;
+}
+.judulartikel{
+    text-align: right;
+}
+.justify {
+    text-align: justify;
+}
+.ke10 {
+    color: #02ed9f;
+}
+
+.jarak10 {
+    line-height: 30px;
+}
+.pertama10 {
+    text-indent: 40px;
+}
+
+.shortke11 {
+    color: blue;
+}
+.ke11 {
+    color: #02ed9f;
+}
+.containerke11 {
+    width: 100%;
+    height: 100px;
+    background-color: #ecffa1;
+}
+.dalamcontainer {
+    width: 50%;
+    height: 50%;
+    background-color: #0dbd82;
+}
+.ke12{
+    color: #02ed9f;
+}
+.infoke12 {
+    color: blue;
+}
+
+/* * {
+    padding: 0%;
+    margin: 0px;
+} */
+.dke12 {
+    background-color: aqua;
+    width: 400px;
+    height: 100px;
+    padding: 3px 20px;
+    margin: auto;
+}
+.div12 { background-color: rgb(204, 0, 255);
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    padding: 30px;
+    
+}
+.ke13 {
+    color: #02ed9f;
+}
+/* .hrke13 {
+    border-width: 10px;
+    border-style:double;
+    border-color: brown;
+} */
+.hrke13 {
+    border: 10px double brown;
+}
+.kotak13 {
+    border: 5px;
+    width: 200px;
+    height: 200px;
+    border-color: #b4acff;
+    border-bottom-style:groove ;
+    border-top-style: dashed;
+    border-left-style:dotted ;
+    border-right-style:double ;
+}
+
+.kotak14 {
+    width: 200px;
+    height: 200px;
+    border: 5px solid ;
+    margin: auto;
+    border-radius: 50px 100px;
+    
+}

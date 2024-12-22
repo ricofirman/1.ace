@@ -1,0 +1,11 @@
+---------SELAMAT DATANG---------
+
+==> SMART ALGORITHM
+
+        "silahkan memilih pilihan
+     yang telah di sediakan untuk
+     mempermudah sistem mengolah"
+
+
+ |---------------------------| 
+                  
